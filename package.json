@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.1.0"
+  },
+  "name": "module2",
+  "version": "1.0.0",
+  "main": "Pupil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
